@@ -1,1 +1,1 @@
-For now, there is only Faith and barbarians
+For now, there is only Ascendants, Barbarians, and Fungal Humans

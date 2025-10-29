@@ -56,5 +56,34 @@
       "Autocracy": 9,
       "Order": 9
     }
+  },
+  {
+    "name": "Virus",
+    "culture": 3,
+    "faith": 5,
+    "food": 9,
+    "gold": 5,
+    "happiness": 5,
+    "production": 5,
+    "science": 4,
+    "military": 2,
+    "aggressive": 3,
+    "declareWar": 2,
+    "commerce": 9,
+    "diplomacy": 6,
+    "loyal": 7,
+    "expansion": 9,
+    "priorities": {
+      "Tradition": 9,
+      "Liberty": 9,
+      "Honor": 2,
+      "Commerce": 6,
+      "Patronage": 4,
+      "Piety": 5,
+      "Rationalism": 4,
+      "Freedom": 6,
+      "Autocracy": 7,
+      "Order": 5
+    }
   }
 ]

@@ -22,7 +22,7 @@
     "uniques": [
       "[+10 Faith] <every [1] turns>",
       "[+15 Faith] per [5] population [in capital] <every [10] turns>",
-      "[+20 Faith] [in all cities] <every [1] turns> <during a Golden Age> <starting from the [Early Classical era]>"
+      "[+20 Faith] [in all cities] <every [1] turns> <during a Golden Age>"
     ],
     "cities": ["Ascended Dimension Portal", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement"]
   },

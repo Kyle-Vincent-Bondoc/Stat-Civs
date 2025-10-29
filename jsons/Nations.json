@@ -22,7 +22,8 @@
     "uniques": [
       "[+10 Faith] <every [1] turns>",
       "[+15 Faith] per [5] population [in capital] <every [10] turns>",
-      "[+20 Faith] [in all cities] <every [1] turns> <during a Golden Age>"
+      "[+20 Faith] [in all cities] <every [1] turns> <during a Golden Age>",
+      "[+1000000000]% Spread Religion Strength <after generating a Great Prophet>"
     ],
     "cities": ["Ascended Dimension Portal", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement"]
   },
@@ -35,11 +36,41 @@
     "attacked": "Argh",
     "defeated": "I will murder your fa-. *Gets taken away to prison*",
     "outerColor": [255, 5, 0],
+    "uniqueName": "Barbaric Fights",
     "uniques": [
       "[+2] Movement",
       "[+5] Sight",
-      "[+5] Range"
+      "[+5] Range",
+      "Heals [100000] damage if it kills a unit"
     ],
     "cities": ["Barbarian Center", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement"]
+  },
+  {
+    "name": "Fungal Humans",
+    "leaderName": "Mother Fungi",
+    "preferredVictoryType": "Domination",
+    "personality": "Virus",
+    "favoredReligion": "Zoroastrianism",
+    "startIntroPart1": ".-- . / .- .-. . / ..-. ..- -. --. .. / .- -. -.. / .-- . / -.-. .- -. / --- -. .-.. -.-- / -.-. --- -- -- ..- -. .. -.-. .- - . / ..- ... .. -. --. / -- --- .-. ... . / -.-. --- -.. . (We are fungi and we can only communicate using morse code)",
+    "startIntroPart2": ".-.. . .- -.. / ..- ... (Lead Us)",
+    "declaringWar": "- .... . / ..-. ..- -. --. .. / .-- .. .-.. .-.. / ... .--. .-. . .- -.. / - --- / -.-- --- ..- (The fungi will spread to you)",
+    "attacked": "... --- ... / .- .-.. . .-. - (SOS ALERT)",
+    "defeated": "--- ..- .-. / ... .--. --- .-. . ... / .... .- ...- . / -... . . -. / -.. . ..-. . .- - . -.. (Our spores have been defeated)",
+    "denounce": ". -..- -.-. ..- ... . / ..- ... (Excuse us)",
+    "introduction": ".-.-.- .-.-.- .-.-.- (...)",
+    "neutralHello": ".-.-.- .-.-.- .-.-.- (...)",
+    "hateHello": "---... -.--. [:(]",
+    "tradeRequest": "..--.. (?)",
+    "declaringFrendship": "---... -.--.- [:)]",
+    "innerColor": [157, 0, 255],
+    "outerColor": [138, 154, 91],
+    "uniqueName": "Obese Mushrooms",
+    "uniques": [
+      "[+10 Food] <every [1] turns> <while the empire is happy>",
+      "[+15 Food] per [3] population [in capital] <every [5] turns> <while the empire is happy>",
+      "Nullifies Growth [in enemy cities]",
+      "[+150]% growth [in all cities] <every [3] turns> <for [15] turns> <every [60] turns>"
+    ],
+    "cities": [".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."]
   }
 ]

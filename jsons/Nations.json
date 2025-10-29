@@ -74,7 +74,7 @@
       "Nullifies Growth [in foreign cities]",
       "[+150]% growth [in all cities] <every [3] turns> <for [15] turns> <every [60] turns>",
       "Nullifies [Happiness] [in foreign cities]",
-      "[-15] [Happiness] <every [5] turns>"
+      "[-5 Happiness] <every [3] turns>"
     ],
     "cities": [".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."],
     "civilopediaText": [{"text": "The fungal humans used to be humans until Mother Fungi spread her sores then infected and controlled the human's brains."}, {"text": "They now only speak morse code by lighting their bioluminescent areas on their body in morse code pattern.s"}]

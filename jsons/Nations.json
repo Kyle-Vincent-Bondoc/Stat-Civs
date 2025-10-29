@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Ascendants",
+    "leaderName": "The Creator",
+    "preferredVictoryType": "Diplomatic",
+    "personality": "Faithful",
+    "favoredReligion": "Ascendantism",
+    "startIntroPart1": "O our lord, Please guide us in this world.",
+    "startIntroPart2": "Will you lead us to great future.",
+    "declaringWar": "This is a tragic event",
+    "attacked": "Oh No",
+    "defeated": "We might have lost but we will continue our legacy!",
+    "denounced": "We have our own beliefs...",
+    "introduction": "All hail to our creator.",
+    "neutralHello": "Greetings.",
+    "hateHello": "What chaos you may bring to us today.",
+    "tradeRequest": "Giving fairly is a value many should follow",
+    "declaringFriendship": "You have joined us in our journey for global peace.",
+    "innerColor": [255, 223, 1],
+    "outerColor": [23, 202, 241],
+    "uniqueName": "Overflowing Faith",
+    "uniques": [
+      "[+10 Faith] <every [1] turns>",
+      "[+15 Faith] per [5] population [in capital] <every [10] turns>",
+      "[+20 Faith] [in all cities] <every [1] turns> <during a Golden Age> <starting from the [Early Classical era]>"
+    ]
+  }
+]

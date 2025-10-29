@@ -23,6 +23,23 @@
       "[+10 Faith] <every [1] turns>",
       "[+15 Faith] per [5] population [in capital] <every [10] turns>",
       "[+20 Faith] [in all cities] <every [1] turns> <during a Golden Age> <starting from the [Early Classical era]>"
-    ]
+    ],
+    "cities": ["Ascended Dimension Portal", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement", "Religious Settlement"]
+  },
+  {
+    "name": "Civilized Barbarians",
+    "leaderName": "Barbarian King",
+    "preferredVictoryType": "Domination",
+    "personality": "War Machine",
+    "declaringWar": "Argh",
+    "attacked": "Argh",
+    "defeated": "I will murder your fa-. *Gets taken away to prison*",
+    "outerColor": [255, 5, 0],
+    "uniques": [
+      "[+2] Movement",
+      "[+5] Sight",
+      "[+5] Range"
+    ],
+    "cities": ["Barbarian Center", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement", "Barbarian Settlement"]
   }
 ]

@@ -205,7 +205,6 @@
         		"row": 3,
         		"prerequisities": ["Philosophy"],
        		    "quote": "'If we are to preserve culture we must continue to create it' - Johan Huizinga",
-				"uniques": ["[+1  Culture] <every [5] turns>"]
      	    },
 			{
 				"name": "Civil Service",

@@ -1,0 +1,14 @@
+{
+  "name": "Celebrity",
+  "unitType": "Civilian",
+  "uniques": [
+    "Is part of Great Person group []",
+    "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+    "Can Spread Religion",
+    "[1] Free Social Policies",
+    "Founds a new puppet city",
+    "Unbuildable", "Uncapturable",
+    "Great Person - [Culture and Faith]"
+  ],
+  "movement": 3
+}

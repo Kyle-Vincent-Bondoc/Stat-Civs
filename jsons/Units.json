@@ -26,5 +26,33 @@
     "movement": 3,
     "strength": 100,
     "religiousStrength": 250
+  },
+  {
+    "name": "Messiah",
+    "unitType": "Civilian",
+    "uniques": [
+      "Can Spread Religion",
+      "May found a religion",
+      "May enhance a religion",
+      "Removes other religions when spreading religion",
+      "Can only attack [City] units",
+      "Can move after attacking",
+      "Can see over obstacles",
+      "[-100]% maintenance costs",
+      "Religious Unit",
+      "Is part of Great Person Group [Great Person]",
+      "Empire enters a [10000]-turn Golden Age <by consuming this unit>",
+      "[100] population [in capital] <by consuming this unit>",
+      "[Demigod] is earned [+100]% faster <by consuming this unit>",
+      "Limited to [1] per Civilization <by consuming this unit>",
+      "Founds a new puppet city",
+      "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+      "Can instantly construct a [Holy Site] improvement <by consuming this unit>",
+      "Can instantly construct a [Barbarian encampment] improvement <by consuming this unit>",
+      "Unbuildable", "Uncapturable",
+      "Can instantly construct a [City center] improvement <by consuming this unit>"
+    ],
+    "movement": 5,
+    "religiousStrength": 9999
   }
 ]

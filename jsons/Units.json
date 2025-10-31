@@ -1,14 +1,19 @@
 {
   "name": "Demigod",
-  "unitType": "Civilian",
+  "unitType": "Melee",
   "uniques": [
-    "Is part of Great Person group []",
+    "Is part of Great Person group [Great Person]",
     "Can instantly construct a [Landmark] improvement <by consuming this unit>",
     "May found a religion",
     "Founds a new puppet city",
     "Unbuildable", "Uncapturable",
     "Great Person - [Culture and Faith]",
-    "Can transform to [Great Prophet] <with [Gems]> <during We Love The King Day>"
+    "Can transform to [Great Prophet] <with [Gems]> <during We Love The King Day>",
+    "Empire enters a [15]-turn Golden Age <by consuming this unit>",
+    "Can Spread Religion",
+    "Religious Unit"
   ],
-  "movement": 3
+  "movement": 3,
+  "strength": 100,
+  "religiousStrength": 9999
 }

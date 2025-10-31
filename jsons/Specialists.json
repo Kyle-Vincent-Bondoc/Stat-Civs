@@ -5,5 +5,13 @@
     "faith": 3,
     "color": [0, 50, 255],
     "greatPersonPoints": {"Demigod": 2}
+  },
+  {
+    "name": "Historian",
+    "happiness": 1,
+    "faith": 1,
+    "culture": 3,
+    "color": [240, 20, 3],
+    "greatPersonPoints": {"Great Artist": 3}
   }
 ]

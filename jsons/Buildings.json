@@ -7,7 +7,7 @@
     "happiness": 1,
     "gold": 1,
     "maintenance": 2,
-    "requiredTech": "Philosophy",
+    "requiredTech": "Cultural Preservation",
     "hurryCostModifier": 10,
     "greatPersonPoints": {"Great Prophet": 3, "Demigod": 1},
     "specialistSlots": {"Priest": 5, "Historian": 3, "Artist": 1}

@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Priest",
+    "happiness": 1,
+    "faith": 3,
+    "color": [0, 50, 255],
+    "greatPersonPoints": {"Demigod": 2}
+  }
+]

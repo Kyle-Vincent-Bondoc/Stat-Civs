@@ -25,7 +25,7 @@
     "uniqueTo": "Ascendants",
     "replaces": "Palace",
     "uniques": ["Indicates the capital city", "[-100]% unhappiness from the number of cities", "[99999] units cost no maintenance"],
-    "greatPersonPoints": {"Great Prophet": 15, "Demigod": 3, "Lord": 1},
+    "greatPersonPoints": {"Great Prophet": 15, "Demigod": 3, "Messiah": 1},
     "specialistSlots": {"Priest": 100}
   }
 ]

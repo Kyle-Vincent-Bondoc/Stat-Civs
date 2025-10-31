@@ -12,10 +12,19 @@
       "Can transform to [Great Prophet] <with [Gems]> <during We Love The King Day>",
       "Empire enters a [15]-turn Golden Age <by consuming this unit>",
       "Can Spread Religion",
-      "Religious Unit"
+      "Religious Unit",
+      "May enhance a religion",
+      "Invisible to others",
+      "May heal outside of friendly territory",
+      "No defensive terrain bonus",
+      "[2] additional attacks per turn",
+      "[-2] Movement <in cities with a [foreign] religion>",
+      "[-20]% Strength <vs [City]>",
+      "[-25]% Strength <vs [City-State]>",
+      "[-30]% Strength <vs [Religious]>"
     ],
     "movement": 3,
     "strength": 100,
-    "religiousStrength": 9999
+    "religiousStrength": 250
   }
 ]

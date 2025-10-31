@@ -11,5 +11,21 @@
     "hurryCostModifier": 10,
     "greatPersonPoints": {"Great Prophet": 3, "Demigod": 1},
     "specialistSlots": {"Priest": 5, "Historian": 3, "Artist": 1}
+  },
+  {
+    "name": "Dimensional Portal",
+    "isNationalWonder": true,
+    "production": 3,
+    "science": 3,
+    "gold": 3, 
+    "culture": 3,
+    "faith": 15,
+    "cityStrength": 3,
+    "cost": 0,
+    "uniqueTo": "Ascendants",
+    "replaces": "Palace",
+    "uniques": ["Indicates the capital city"],
+    "greatPersonPoints": {"Great Prophet": 15, "Demigod": 5},
+    "specialistSlots": {"Priest": 100}
   }
 ]

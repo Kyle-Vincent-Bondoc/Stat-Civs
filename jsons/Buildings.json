@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Seminar",
+    "cost": 50,
+    "faith": 3,
+    "culture": 3,
+    "happiness": 1,
+    "gold": 1,
+    "maintenance": 2,
+    "hurryCostModifier": 10,
+    "greatPersonPoints": {"Great Prophet": 3, "Demigod": 1},
+    "specialistSlots": {"Priest": 5, "Historian": 3, "Artist": 1}
+  }
+]

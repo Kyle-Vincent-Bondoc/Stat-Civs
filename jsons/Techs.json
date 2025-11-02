@@ -160,7 +160,7 @@
 			},
 			{
 				"name": "Drama and Poetry",
-				"row": 3,
+				"row": 4,
 				"prerequisites": ["Writing"],
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},

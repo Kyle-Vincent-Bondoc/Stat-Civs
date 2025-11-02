@@ -203,7 +203,7 @@
 	      	{
         		"name": "Cultural Preservation",
         		"row": 3,
-        		"prerequisities": ["Philosophy"],
+        		"prerequisites": ["Philosophy"],
        		    "quote": "'If we are to preserve culture we must continue to create it' - Johan Huizinga",
      	    },
 			{
